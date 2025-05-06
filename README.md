@@ -7,7 +7,7 @@ Este repositório contém os exercícios resolvidos do curso **Java COMPLETO - P
 - [x]  Introdução  
 - [x] Conceitos de programação
 - [x] Introdução à linguagem Java  
-- [ ] Estrutura sequencial
+- [x] Estrutura sequencial
 - [ ] Estrutura Condicional  
 - [ ] Estruturas repetitivas  
 - [ ] Outros tópicos básicos sobre Java 
